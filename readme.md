@@ -20,6 +20,7 @@ Algumas características:
 ## **S3 - Objetos**
 
 • Os objetos (arquivos) tem uma chave
+
 • A chave é o caminho COMPLETO: 
 
 ```bash
