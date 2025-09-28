@@ -1,6 +1,7 @@
 AWS código lambda. 
 
-Descrição: Processamento de imagens utilizando o s3 e lambda..
+Descrição: Processamento de imagens utilizando o s3 e lambda que irá redimensionar, converter em JPEG e salvar no bucket fernanda_bucket_destino.
+
 
 
     
