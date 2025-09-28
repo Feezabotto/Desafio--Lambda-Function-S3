@@ -87,7 +87,7 @@ Conta da AWS.
 Permissões no IAM para criação e execução do lambda/s3.
 
 ## Workflow Design
-Um exemplo de processamento de imagens utilizando o s3 e lambda.
+Um exemplo de processamento de imagens utilizando o s3 e lambda que irá redimensionar, converter em JPEG e salvar no bucket fernanda_bucket_destino.
 
 ## Anexos
 code.md contendo o código do template para a criação do workflow e a pasta images contendo o diagrama.
